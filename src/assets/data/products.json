@@ -1,0 +1,19 @@
+{
+	"products": [
+		{ "id": 1, "name": "Laptop", "price": 1200, "inStock": true },
+		{ "id": 2, "name": "Headphones", "price": 150, "inStock": true },
+		{ "id": 3, "name": "Mouse", "price": 80, "inStock": false },
+		{ "id": 4, "name": "Mechanical Keyboard", "price": 140, "inStock": true },
+		{ "id": 5, "name": "27\" Monitor", "price": 300, "inStock": false },
+		{ "id": 6, "name": "Smartphone", "price": 999, "inStock": true },
+		{ "id": 7, "name": "Tablet", "price": 799, "inStock": true },
+		{ "id": 8, "name": "Printer", "price": 220, "inStock": false },
+		{ "id": 9, "name": "Webcam", "price": 70, "inStock": true },
+		{ "id": 10, "name": "Bluetooth Speaker", "price": 120, "inStock": false },
+		{ "id": 11, "name": "External SSD 1TB", "price": 180, "inStock": true },
+		{ "id": 12, "name": "Gaming Laptop", "price": 2100, "inStock": true },
+		{ "id": 13, "name": "Wireless Earbuds", "price": 199, "inStock": false },
+		{ "id": 14, "name": "Smartwatch", "price": 350, "inStock": true },
+		{ "id": 15, "name": "Office Headset", "price": 60, "inStock": true }
+	]
+}
